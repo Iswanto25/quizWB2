@@ -11,7 +11,7 @@ def BMI():
     if BMI <= 18.5:
         hasil = "KURUS"
     elif BMI <= 25:
-        hasil = "SEHAT"
+        hasil = "NORMAL"
     elif BMI <= 40:
         hasil = "BERLEBIHAN"
     else:
